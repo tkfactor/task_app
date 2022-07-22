@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    width: auto;
+    padding: 30px;
+    margin: auto;
+    background-color: black;
+}
+
+h2 {
+  margin-left: 40px;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    margin-top: 287px;
+    
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-left: 20px;
+}
+
+
+table th {
+    background-color: #0cafeb;
+    padding: 10px 20px;
+    border: solid 1px black;
+  }
+  
+  table td {
+    background-color: #588fc2;
+    padding: 10px 20px;
+    border: solid 1px black;
+    text-align: center;
+  }
+  
+  .failure_msg {
+    background-color: red;
+    padding: 5px;
+  }
+
+  .success_msg {
+    background-color: aquamarine;
+    padding: 5px;
+  }
+
+  .link_to {
+    margin-left: 20px;
+    list-style: none;
+  }
+  
+ 
+
+
+  .delete_msg {
+    background-color: red;
+    padding: 5px;
+  }
